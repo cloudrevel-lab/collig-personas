@@ -83,6 +83,20 @@ You can also open a normal PR after manually adding personas/<slug>/.  The
 GitHub Action runs the same checks as make test; a community reviewer should
 check the dossier for quality, factual accuracy and safe content.
 
+## First-time repository bootstrap
+
+If the GitHub repository does not exist yet, an org maintainer can create it
+from this checkout:
+
+~~~bash
+gh auth login
+gh repo create cloudrevel-lab/collig-personas --public \
+  --description "Reusable Collig personas"
+git push -u origin main
+~~~
+
+After that, contributors only need make push-personas from a Collig checkout.
+
 ## Validation
 
 ~~~bash
