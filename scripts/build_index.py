@@ -7,7 +7,7 @@ import argparse
 import sys
 from pathlib import Path
 
-from validate_personas import build_index, render_index, validate_repository
+from validate_personas import render_index, validate_repository
 
 
 def main(argv=None) -> int:
