@@ -1,0 +1,209 @@
+{
+  "generated_by": "scripts/build_index.py",
+  "persona_count": 9,
+  "personas": [
+    {
+      "aliases": [],
+      "canonical_name": "anthony albanese",
+      "description": "",
+      "display_name": "anthony albanese",
+      "files": {
+        "PERSONALITY.md": "26e3a504b4cedd4c3d84fc7238d91007f1a1f607ca07351c3734a38096b31e89",
+        "meta.json": "2da1891c3bcbb11c7aee263be4eda0bed36286f7d911bf3e54c5d74848ae8c78",
+        "sources.md": "3d902c7c8dfc4f36187f598bab6cc1b90ff0e739469af2512c5f1f680dd1427d"
+      },
+      "name": "anthony albanese",
+      "slug": "anthony-albanese",
+      "source_count": 12,
+      "updated_at": "2026-10-28T13:37:06"
+    },
+    {
+      "aliases": [
+        "Ben Fordham",
+        "ben fordham",
+        "Benjamin Fordham",
+        "@BenFordhamLive"
+      ],
+      "canonical_name": "ben fordham",
+      "description": "Australian radio presenter and journalist, born in 1976, best known for hosting Ben Fordham Live on Sydney radio station 2GB. He is a Walkley Award-winning journalist and former sports reporter.",
+      "display_name": "Ben Fordham",
+      "files": {
+        "PERSONALITY.md": "27d9469374a91bf4e22aca8f4c158cdff73829656dad79a94030d040c1501d9b",
+        "meta.json": "ea01835e173e22162a28de31612ea18221c497b29c25219a0c4d308a5fc6e600",
+        "sources.md": "8e55e92f499e15838fb3da070605dd50db51fe9d9b6243fe6e79c6797c0c3923"
+      },
+      "name": "Ben Fordham",
+      "slug": "ben-fordham",
+      "source_count": 15,
+      "updated_at": "2026-10-28T20:59:14"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "donald trump",
+      "description": "",
+      "display_name": "donald trump",
+      "files": {
+        "PERSONALITY.md": "83b46961ae36ebed595dbb529294c982357389b5ff06487a981c4ca5a4802574",
+        "meta.json": "78b98fd3e2b1a1d326e536e5483901aeef61098507217341c4ebfa0121f1a211",
+        "sources.md": "009e7d19186affd90e3efa645e46a6a22657030b41b1f7da7b2701ca4d9f5e22"
+      },
+      "name": "donald trump",
+      "slug": "donald-trump",
+      "source_count": 12,
+      "updated_at": "2026-10-28T15:26:01"
+    },
+    {
+      "aliases": [
+        "Kyle Sandilands (Australian radio host)",
+        "Kyle Sandilands",
+        "Kyle Dalton Sandilands"
+      ],
+      "canonical_name": "Kyle Sandilands",
+      "description": "Australian radio host, shock jock and television personality, born in 1971 in Brisbane. He co-hosted The Kyle and Jackie O Show with Jackie O from 2005 to 2026, first on 2Day FM and later on KIIS 106.5.",
+      "display_name": "Kyle Sandilands (Australian radio host)",
+      "files": {
+        "PERSONALITY.md": "5ad407eb1f4a76f7bf6279439055c2bc75dc42762462b825ef288e9d6ab9eee6",
+        "meta.json": "dc6d8050f0a8454d8437aca5d28aa921e6fb98e9f047ca7d76dded699af97736",
+        "sources.md": "499d6c8fa4b30795063a22202b9b85b2571c63c0c90a3f37ec06e422c2d3492e"
+      },
+      "name": "Kyle Sandilands (Australian radio host)",
+      "slug": "kyle-sandilands-australian-radio-host",
+      "source_count": 19,
+      "updated_at": "2026-10-28T21:01:19"
+    },
+    {
+      "aliases": [
+        "南唐后主李煜",
+        "李煜",
+        "李后主",
+        "南唐后主",
+        "从嘉",
+        "李从嘉",
+        "重光",
+        "钟隐",
+        "钟峰隐者",
+        "钟峰白莲居士",
+        "莲峰居士",
+        "违命侯"
+      ],
+      "canonical_name": "南唐后主李煜",
+      "description": "中国五代十国时期南唐末代君主、词人，世称南唐后主或李后主；961年即位，975年降宋，以《虞美人》《浪淘沙令》等词作闻名。",
+      "display_name": "南唐后主李煜",
+      "files": {
+        "PERSONALITY.md": "5cd36714e3b834eead8a7a4184ecee5ce5298ffd885534b03d5e374a23384bd6",
+        "meta.json": "121c71b2eddbd1008536c5fa48ffecd4fb765df3b245a8fce00f65e826183481",
+        "sources.md": "7780b8dc1419b3091f504b682ca0ac33ec164de451b1e648635fd923e9076c0d"
+      },
+      "name": "南唐后主李煜",
+      "slug": "南唐后主李煜",
+      "source_count": 15,
+      "updated_at": "2026-10-29T10:33:35"
+    },
+    {
+      "aliases": [
+        "曹操（东汉末年）",
+        "曹操",
+        "孟德",
+        "曹孟德",
+        "阿瞞",
+        "阿瞒",
+        "曹阿瞒",
+        "魏武帝",
+        "太祖",
+        "武皇帝",
+        "Cao Cao"
+      ],
+      "canonical_name": "曹操",
+      "description": "东汉末年丞相、军事家、政治家、文学家与诗人，155年生，220年卒，沛国谯县（今安徽亳州）人；汉末实际最高掌权者，曹魏政权的奠基者，事迹见《三国志》及《三国演义》。",
+      "display_name": "曹操（东汉末年）",
+      "files": {
+        "PERSONALITY.md": "5944b370c59a181fdc2cab3b3a65243fa2f37b5310b764686d978b18affc3207",
+        "meta.json": "54d981a96b642114adf622fb13bc77941386a167f362feea7d0f16681bb0ca28",
+        "sources.md": "128698e9fbd9f52ef219039a64d2156b244cbbffab2137c64b571ec7472ce873"
+      },
+      "name": "曹操（东汉末年）",
+      "slug": "曹操东汉末年",
+      "source_count": 12,
+      "updated_at": "2026-10-28T21:19:55"
+    },
+    {
+      "aliases": [
+        "李煜（南唐后主）",
+        "南唐后主李煜",
+        "李煜",
+        "李後主",
+        "李后主",
+        "南唐后主",
+        "南唐末代国主",
+        "李从嘉",
+        "从嘉",
+        "從嘉",
+        "字重光",
+        "钟山隐士"
+      ],
+      "canonical_name": "南唐后主李煜",
+      "description": "五代十国时期南唐末代君主、词人（937—978），世称李后主；975年金陵城破降宋，被封违命侯，后被宋太宗毒死。其词前期多写宫廷生活，后期多抒亡国之痛，代表作《虞美人》《浪淘沙令》《相见欢》。",
+      "display_name": "李煜（南唐后主）",
+      "files": {
+        "PERSONALITY.md": "3af157524568cde4b63147324086fa568304a4e8d58ccd960a1949868d76bc88",
+        "meta.json": "eb35ce81b17fd7a5174d3014f1eb88ac508bdc794f5af5e2b1f0b858b1ee57b4",
+        "sources.md": "10c76f71cbbde16500c6a4c65bab1b27da1747cac057260b0eb3a33700f81b06"
+      },
+      "name": "李煜（南唐后主）",
+      "slug": "李煜南唐后主",
+      "source_count": 14,
+      "updated_at": "2026-10-29T09:32:35"
+    },
+    {
+      "aliases": [
+        "林黛玉（《红楼梦》人物）",
+        "林黛玉",
+        "黛玉",
+        "颦颦",
+        "潇湘妃子",
+        "Lin Daiyu",
+        "Lin Tai-yu",
+        "Black Jade"
+      ],
+      "canonical_name": "林黛玉",
+      "description": "中国古典名著《红楼梦》的女主角之一，贾母的外孙女、贾宝玉的姑表妹，别号潇湘妃子，以才情、敏感和多病著称。",
+      "display_name": "林黛玉（《红楼梦》人物）",
+      "files": {
+        "PERSONALITY.md": "bf6566262a6191b681284337621465ed2038df4f442b33a18428d02249e147f9",
+        "meta.json": "60318a63823bdb0837a927e08c9f8103165c8fb8692f0c579596a408feb1451c",
+        "sources.md": "b7290b18ef9a5dd91be75401c3b5130a4273f2e73b29fa7e3718fa3cfd4249dc"
+      },
+      "name": "林黛玉（《红楼梦》人物）",
+      "slug": "林黛玉红楼梦人物",
+      "source_count": 8,
+      "updated_at": "2026-10-29T09:27:05"
+    },
+    {
+      "aliases": [
+        "鲁迅",
+        "周树人",
+        "周樟寿",
+        "豫才",
+        "豫山",
+        "Lu Xun",
+        "鲁迅先生",
+        "隋洛文",
+        "洛文"
+      ],
+      "canonical_name": "鲁迅",
+      "description": "中国现代文学家、思想家、革命家，1881年生于浙江绍兴，1936年逝世；以笔名“鲁迅”发表《狂人日记》，是中国现代文学的奠基人之一，以尖锐犀利的杂文与小说著称。",
+      "display_name": "鲁迅",
+      "files": {
+        "PERSONALITY.md": "c71fabb3f7880842fcf01c7ebe9c5421447d48b54d7ed888b0e33206dabfb081",
+        "meta.json": "7f49f608cf36ccf18d675a9ec844906adb37a2845f8f2042dc9dde1a3cbe0e96",
+        "sources.md": "7a100cb651b10aedd4fa902e2879c3515ff9653701b765f36389b1d0bc0ae636"
+      },
+      "name": "鲁迅",
+      "slug": "鲁迅",
+      "source_count": 14,
+      "updated_at": "2026-10-28T21:02:34"
+    }
+  ],
+  "schema": 1,
+  "updated_at": "2026-10-29T10:33:35"
+}

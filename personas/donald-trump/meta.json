@@ -1,0 +1,62 @@
+{
+  "version": 1,
+  "name": "donald trump",
+  "slug": "donald-trump",
+  "summary": "American businessman, media personality and politician; 45th and 47th US president. A Queens-born developer who became a tabloid fixture, then a reality-TV host, then a candidate and president. The persona is inseparabl…",
+  "created_at": "2026-10-28T15:26:01",
+  "updated_at": "2026-10-28T15:26:01",
+  "provider": "deepseek",
+  "model": "deepseek-flash",
+  "source_count": 12,
+  "aliases": [],
+  "sources": [
+    {
+      "title": "Donald Trump - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+      "title": "Donald Trump - DeSmog",
+      "url": "https://www.desmog.com/donald-trump/"
+    },
+    {
+      "title": "Donald Trump Biography and Life History",
+      "url": "https://www.vedantu.com/biography/donald-trump"
+    },
+    {
+      "title": "Donald Trump : Biography , U.S. President, Businessman",
+      "url": "https://www.biography.com/political-figures/donald-trump"
+    },
+    {
+      "title": "liveabout.com/ donald - trump - quotes -2733864",
+      "url": "https://www.liveabout.com/donald-trump-quotes-2733864"
+    },
+    {
+      "title": "Decoding Donald Trump 's favorite 2024 election campaign trail... : NPR",
+      "url": "https://www.npr.org/2024/06/20/g-s1-4833/trump-too-big-to-rig-drill-baby-swamp-the-vote-rally-maga-2024"
+    },
+    {
+      "title": "To Channel Her Frustration, One Woman Started Embroidering Donald ...",
+      "url": "https://news.artnet.com/art-world/tiny-pricks-project-lingua-franca-1572865"
+    },
+    {
+      "title": "Trump's Personality: Analyzing a Controversial Figure's Traits",
+      "url": "https://neurolaunch.com/trumps-personality/"
+    },
+    {
+      "title": "The Psychology of Trump's 2025 Presidency: Traits, Behaviours, and ...",
+      "url": "https://simplyputpsych.co.uk/global-psych/the-psychological-of-trumps-2025-presidency-traits-behaviours-and-underlying-dynamics"
+    },
+    {
+      "title": "Who Are You, Donald J. Trump? | Springer Nature Link",
+      "url": "https://link.springer.com/chapter/10.1007/978-3-031-36343-6_19"
+    },
+    {
+      "title": "(PDF) The Personality Profile and Leadership Style of U.S. President ...",
+      "url": "https://www.researchgate.net/publication/343400256_The_Personality_Profile_and_Leadership_Style_of_US_President_Donald_J_Trump_in_Office"
+    },
+    {
+      "title": "The Core Values of Donald Trump: A Balanced Examination",
+      "url": "https://values.institute/the-core-values-of-donald-trump-a-balanced-examination"
+    }
+  ]
+}
