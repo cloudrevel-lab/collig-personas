@@ -1,6 +1,6 @@
 {
   "generated_by": "scripts/build_index.py",
-  "persona_count": 9,
+  "persona_count": 8,
   "personas": [
     {
       "aliases": [],
@@ -125,34 +125,6 @@
       "slug": "曹操东汉末年",
       "source_count": 12,
       "updated_at": "2026-10-28T21:19:55"
-    },
-    {
-      "aliases": [
-        "李煜（南唐后主）",
-        "南唐后主李煜",
-        "李煜",
-        "李後主",
-        "李后主",
-        "南唐后主",
-        "南唐末代国主",
-        "李从嘉",
-        "从嘉",
-        "從嘉",
-        "字重光",
-        "钟山隐士"
-      ],
-      "canonical_name": "南唐后主李煜",
-      "description": "五代十国时期南唐末代君主、词人（937—978），世称李后主；975年金陵城破降宋，被封违命侯，后被宋太宗毒死。其词前期多写宫廷生活，后期多抒亡国之痛，代表作《虞美人》《浪淘沙令》《相见欢》。",
-      "display_name": "李煜（南唐后主）",
-      "files": {
-        "PERSONALITY.md": "3af157524568cde4b63147324086fa568304a4e8d58ccd960a1949868d76bc88",
-        "meta.json": "eb35ce81b17fd7a5174d3014f1eb88ac508bdc794f5af5e2b1f0b858b1ee57b4",
-        "sources.md": "10c76f71cbbde16500c6a4c65bab1b27da1747cac057260b0eb3a33700f81b06"
-      },
-      "name": "李煜（南唐后主）",
-      "slug": "李煜南唐后主",
-      "source_count": 14,
-      "updated_at": "2026-10-29T09:32:35"
     },
     {
       "aliases": [
